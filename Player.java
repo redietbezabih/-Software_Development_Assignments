@@ -1,3 +1,4 @@
+//Rediet Bezabih
 /**
  * Represents the player in the maze.
  * Stores position (x, y) and remaining energy.
