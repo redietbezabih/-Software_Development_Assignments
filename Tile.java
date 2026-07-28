@@ -1,3 +1,5 @@
+//Rediet Bezabih
+
 /**
  * Represents one cell in the maze grid.
  * A tile can be a wall, the exit, or a normal empty space.
